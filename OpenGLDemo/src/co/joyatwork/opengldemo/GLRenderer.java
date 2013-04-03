@@ -7,7 +7,7 @@ import android.content.Context;
 import android.opengl.GLSurfaceView.Renderer;
 import android.opengl.GLU;
 /*
- * Implementation of Renderer
+ * Implementation of GLRenderer
  */
 public class GLRenderer implements Renderer {
 
