@@ -6,7 +6,9 @@ import javax.microedition.khronos.opengles.GL10;
 import android.content.Context;
 import android.opengl.GLSurfaceView.Renderer;
 import android.opengl.GLU;
-
+/*
+ * Implementation of Renderer
+ */
 public class GLRenderer implements Renderer {
 
 	//private Triangle 	triangle;	// the triangle to be drawn
